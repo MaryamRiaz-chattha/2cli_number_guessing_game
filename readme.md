@@ -12,3 +12,4 @@ This is a simple number guessing game implemented in Node.js using the Inquirer.
 ## Run
 
 Run it using command
+npx mrc02_cli_number_guessing_project
